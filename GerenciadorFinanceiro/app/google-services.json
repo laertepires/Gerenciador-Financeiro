@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "837731937417",
+    "firebase_url": "https://financial-manager-42d30.firebaseio.com",
+    "project_id": "financial-manager-42d30",
+    "storage_bucket": "financial-manager-42d30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837731937417:android:fd06f48c631b8ae5",
+        "android_client_info": {
+          "package_name": "es.esy.laerte.gerenciadorfinanceiro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837731937417-cu0v162elhm4uqa5dlc5ttudcvvbujei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{
+        "current_key": "AIzaSyDtKKHhWC6Hn_DookKkJnkqZeNJofURV5c"
+      }],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Financial Manager</string>
+    <string name="action_settings">Setting</string>
+
+    <string name="t2_text_hint_name">Name</string>
+    <string name="t2_text_hint_valor">Value</string>
+    <string name="t2_text_hint_vencimento">Maturit: DD/MM/YYYY</string>
+    <string name="t2_text_tv_tipo">Type</string>
+    <string-array name="tipo_de_divida_array">
+        <item>Home</item>
+        <item>Feeding</item>
+        <item>Others</item>
+    </string-array>
+    <string name="t2_text_tv_status">Status</string>
+    <string name="t2_text_rb_pago">Paid Out</string>
+    <string name="t2_text_rb_nao_pago">Not Pay</string>
+    <string name="t2_text_btn_salvar">Save</string>
+    <string name="t2_text_btn_cancelar">cancel</string>
+</resources>
